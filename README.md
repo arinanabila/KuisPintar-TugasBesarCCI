@@ -1,10 +1,9 @@
+
+<img width="1894" height="827" alt="Screenshot 2026-03-01 094613" src="https://github.com/user-attachments/assets/983ebdd4-abde-48d6-873b-694a1ead2e92" />
+
 # KuisPintar
 
 **KuisPintar** adalah sebuah aplikasi web interaktif berbasis kuis yang dirancang untuk memberikan pengalaman belajar dan menguji pengetahuan pengguna melalui berbagai kuis. Aplikasi ini memiliki dua peran utama, yaitu **User** (Pengguna) dan **Admin** (Administrator).
-
-## � Tampilan Utama (Landing Page)
-
-![Landing Page](./src/assets/image.png)
 
 ## �🚀 Fitur Utama
 
