@@ -2,7 +2,11 @@
 
 **KuisPintar** adalah sebuah aplikasi web interaktif berbasis kuis yang dirancang untuk memberikan pengalaman belajar dan menguji pengetahuan pengguna melalui berbagai kuis. Aplikasi ini memiliki dua peran utama, yaitu **User** (Pengguna) dan **Admin** (Administrator).
 
-## 🚀 Fitur Utama
+## � Tampilan Utama (Landing Page)
+
+![Landing Page](./src/assets/image.png)
+
+## �🚀 Fitur Utama
 
 ### 👨‍💻 Fitur Pengguna (User)
 - **Otentikasi**: Login dan Register untuk pengguna baru.
